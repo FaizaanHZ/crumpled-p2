@@ -1,1 +1,1 @@
-# crumpled-p2
+# CP-2
